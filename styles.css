@@ -1,0 +1,45 @@
+ body {
+     background: gainsboro;
+     max-width: 900px;
+     margin: auto;
+ }
+ 
+ .namesite {
+     color: black;
+     margin-bottom: 15px;
+     margin: 0;
+     margin-bottom: 15px;
+     font-size: 40px;
+     text-transform: uppercase;
+ }
+ 
+ .subtitle {
+     color: black;
+     margin: 15px 15px 15px 0;
+}
+
+ .storename {
+     color: black;
+ }
+
+ .storename {
+     font-size: 16px;
+     font-style: italic;
+ }
+
+ .post {
+    background: white;
+    padding: 10px;
+    border: 2px solid black; 
+    margin: 0;
+ }
+
+ .content {
+     margin: 0;
+     margin-bottom: 15px;
+ }
+
+ .image_post {
+     margin-bottom: 15px;
+     width: 60%;
+ }
